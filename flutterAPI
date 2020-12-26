@@ -1,0 +1,29 @@
+{
+  "jobs": [
+    {
+      "name":"Ishaan",
+      "email":"ispa198@gmail.com",
+      "job":"CEO"
+    },
+    {
+     "name":"Deep",
+     "email":"deepparekh01@gmail.com",
+     "job":"student"
+    },
+    {
+      "name": "Thor",
+      "power": "Superhuman strength, speed, endurance & resistance to injury.",
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQbuKL7NfxTMy1wUymb2tu25NONgb7TU_NE-KOzWF9UfMU5rRz"
+    },
+    {
+      "name":"Redd",
+      "email":"imdanger@gmail.com",
+      "job":"FBI Consultant"
+    },
+    {
+       "name":"keen",
+       "email":"agentKenn@gmail.com",
+       "job":"FBI"
+    }
+  ]
+}
